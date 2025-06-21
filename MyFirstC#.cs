@@ -7,8 +7,8 @@ namespace MyApplication // namespace is used to organize your code, and it is a 
     static void Main(string[] args)  
     {
       Console.WriteLine("Hello World!");     |
-      Console.WriteLine("I am Learning C#"); | // All of these are what's gonna be logged on the console.
-      Console.WriteLine("It is awesome!");   |
+      Console.WriteLine("I am Learning C# and other languages"); | // All of these are what's gonna be logged on the console.
+      Console.WriteLine("It is awesome! and im feeling great!");   |
     }
   }
 }
